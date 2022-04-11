@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.5.0",
-    "ioredis": "^4.17.3"
+    "ioredis": "^5.0.4"
   }
 }
